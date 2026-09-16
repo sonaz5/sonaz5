@@ -64,15 +64,6 @@ Passionate about building autonomous agentic architectures, stateful LLM workflo
 
 ---
 
-###  Embedded Sensor Signal Acquisition & Conditioning Pipeline
-> **Stack:** C/C++ (Arduino), Python, LSM6DSM (6-DoF IMU), I2C/SPI, SciPy, Matplotlib
-
-- Built a physical telemetry pipeline interfacing an Arduino microcontroller with an LSM6DSM 6-axis inertial measurement unit.
-- Designed analog relaxation oscillator and operational amplifier (Op-Amp) circuits on breadboards for signal conditioning and noise suppression.
-- Streamed raw accelerometer and gyroscope telemetry to Python for digital filtering, FFT spectral analysis, and noise reduction.
-
----
-
 ###  Multimodal Attention-Based Image Captioning Pipeline
 > **Stack:** Python, CNNs (VGG16 / Inception), RNNs (LSTM / GRU), Bahdanau & Luong Attention, NLP
 
